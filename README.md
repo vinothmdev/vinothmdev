@@ -1,4 +1,4 @@
-- 👋 Hi, [Vinoth Marimuthu](https://github.com/vinothmdev)
+- 👋 Hi, I'm [Vinoth Marimuthu](https://github.com/vinothmdev)
 - 👀 I’m interested in Microservices, API, Cloud and Data Science
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on Java, Rust, API, Data Science and Microservices
